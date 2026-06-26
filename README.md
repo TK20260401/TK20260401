@@ -33,9 +33,10 @@
 
 [🔗 ライブデモ](https://otetsudai-bank-beta.vercel.app) ・ [📁 リポジトリ](https://github.com/TK20260401/otetsudai-bank)
 
-### 📂 ポートフォリオ
-全プロジェクトの詳細・技術選定・工夫した点はこちら
-👉 **[Portfolio リポジトリ](https://github.com/TK20260401/portfolio)**
+### 📂 ポートフォリオ / 各種リンク
+- 🌐 **[ポートフォリオサイト（GitHub Pages）](https://tk20260401.github.io)** ← 名刺URL
+- 📁 [Portfolio リポジトリ（詳細）](https://github.com/TK20260401/portfolio)
+- 📄 [職務経歴書（RESUME）](https://github.com/TK20260401/portfolio/blob/main/RESUME.md)
 
 ### 📫 連絡先
 GitHub のプロフィール・Issue 経由でご連絡ください。
