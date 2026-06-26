@@ -39,5 +39,7 @@
 - 📄 [職務経歴書（RESUME）](https://github.com/TK20260401/portfolio/blob/main/RESUME.md)
 
 ### 📫 連絡先
-GitHub のプロフィール・Issue 経由でご連絡ください。
+- 📝 [note](https://note.com/lush_cosmos4027)
+- 🐙 [GitHub](https://github.com/TK20260401)
+<!-- LinkedIn: 登録後にここへ追加予定 -->
 <!-- 個人アカウントへコピーする際: 必要に応じてメール／SNS等の連絡先をここに追記してください -->
