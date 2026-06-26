@@ -40,6 +40,7 @@
 
 ### 📫 連絡先
 - 📝 [note](https://note.com/lush_cosmos4027)
+- 📨 [お問い合わせフォーム](https://forms.gle/cs1gk5cjho3A41YE7)
 - 🐙 [GitHub](https://github.com/TK20260401)
 <!-- LinkedIn: 登録後にここへ追加予定 -->
 <!-- 個人アカウントへコピーする際: 必要に応じてメール／SNS等の連絡先をここに追記してください -->
